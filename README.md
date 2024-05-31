@@ -15,7 +15,7 @@ You can see the Drum Kit in action here: Live Demo
 //Installation
 * Clone the repository:
 
- git clone https://github.com/yourusername/javascript-drum-kit.git
+ git clone (https://github.com/NAMBIRAJA-M/javascript-drum_kit.git)
 
 * Navigate to the project directory:
 
